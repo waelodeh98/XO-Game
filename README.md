@@ -62,5 +62,4 @@ Software Engineering Student
 
 GitHub: [github.com/waelodeh98](https://github.com/waelodeh98) 
 LinkedIn: [linkedin.com/in/wael-samer](https://www.linkedin.com/in/waelsamer)
-اسم عنوان URL صغ)
 
