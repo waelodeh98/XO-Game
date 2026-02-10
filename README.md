@@ -46,6 +46,9 @@ Compile and run using any C++ compiler on Windows:
 g++ xo_game.cpp -o xo_game
 xo_game
 
+Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
+
+
 📸 Screenshots
 ![Screenshot 2026-01-15 092131](https://github.com/user-attachments/assets/723c9114-7e3d-4333-82e1-7729ae9992a7)
 
