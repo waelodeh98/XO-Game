@@ -49,12 +49,16 @@ xo_game
 Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
 
 
+
+
 📸 Screenshots
-![Screenshot 2026-01-15 092131](https://github.com/user-attachments/assets/723c9114-7e3d-4333-82e1-7729ae9992a7)
 
-![Screenshot 2026-01-15 092204](https://github.com/user-attachments/assets/3107b85e-761e-4d3e-8275-c2a160ea5808)
+[![Screenshot 2026-01-15 092131](https://github.com/user-attachments/assets/723c9114-7e3d-4333-82e1-7729ae9992a7)](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
 
-![Screenshot 2026-01-15 092231](https://github.com/user-attachments/assets/bfff03f1-495c-4f76-8f74-6ef66720c3fe)
+[![Screenshot 2026-01-15 092204](https://github.com/user-attachments/assets/3107b85e-761e-4d3e-8275-c2a160ea5808)](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
+
+[![Screenshot 2026-01-15 092231](https://github.com/user-attachments/assets/bfff03f1-495c-4f76-8f74-6ef66720c3fe)](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
+
 
 
 
