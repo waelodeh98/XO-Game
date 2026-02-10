@@ -48,8 +48,7 @@ xo_game
 
 Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
 
-
-
+*Click on any image to watch the project video on LinkedIn*
 
 📸 Screenshots
 
@@ -58,8 +57,6 @@ Watch the project video on LinkedIn: [Click here](https://www.linkedin.com/posts
 [![Screenshot 2026-01-15 092204](https://github.com/user-attachments/assets/3107b85e-761e-4d3e-8275-c2a160ea5808)](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
 
 [![Screenshot 2026-01-15 092231](https://github.com/user-attachments/assets/bfff03f1-495c-4f76-8f74-6ef66720c3fe)](https://www.linkedin.com/posts/waelsamer_just-finished-my-xo-game-in-c-a-console-activity-7417402421556977664-eo-0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEjZzTcBBcy-B3pcoCE1Ym2h-AyhlXqI3Sc)
-
-
 
 
 👤 Author
